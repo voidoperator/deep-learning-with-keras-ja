@@ -3,3 +3,4 @@ tensorflow==1.8.0
 gevent==1.2.2
 quiver-engine==0.1.4.1.4
 h5py==2.7.1
+imageio
